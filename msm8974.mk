@@ -15,4 +15,5 @@
 COMMON_PATH := device/sony/msm8974-common
 
 PRODUCT_PACKAGES += \
+    camera.qcom \
     CameraWorkaround
